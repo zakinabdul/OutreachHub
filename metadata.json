@@ -1,0 +1,6 @@
+{
+  "name": "Kerala Study Abroad Outreach",
+  "description": "Mobile-optimized outreach directory and contact tracker for study abroad consultancies in Kerala with one-tap calling, priority order, and outreach notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
